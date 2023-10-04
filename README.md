@@ -4,3 +4,4 @@ A Simple French teaching app in Android teaching the pronunciations of different
 # French-Teacher-App apk file
 
 # Output
+![1](https://github.com/CGreenP/French-Teacher-App/assets/56307530/3d9c8bed-a0fb-48d6-ab75-50de7ec20a49)
