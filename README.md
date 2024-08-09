@@ -4,13 +4,20 @@ A Simple French teaching app in Android teaching the pronunciations of different
 Inspired by the Udemy course on [**The Complete Android 15 Course -Build 82 Apps [Java& Kotlin]**](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android/) Created by [Abbass Masri](https://www.udemy.com/user/mahmoud-masri-7/).
 
 # Understood and Implemented concepts-
-* Views & Widgets
-* TextView
-* Button
-* Set particular image as background
-* setOnClickListener()
-* use of raw folder
-* MediaPlayer class
+* Static User Interface
+  * Views & Widgets
+    * TextView
+    * Button
+      * setOnClickListener()
+    * Guideline
+  * ViewGroup
+    * ConstraintLayout
+* UI Resources
+  * Drawables
+    * Set particular image as background
+* Use of raw folder
+* Android multimedia framework
+  * MediaPlayer class
 
 
 # Output Screenshot-
